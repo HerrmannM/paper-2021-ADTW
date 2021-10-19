@@ -55,3 +55,4 @@ The ADTW distance is efficiently implementated following
 > 
 > Herrmann, M., Webb, G.I.
 
+Part of the code in this repository is borrowed from our Tempo project [https://github.com/MonashTS/tempo](https://github.com/MonashTS/tempo).
